@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Jeffer A. Mendoza
+ CAMBIO DEL DIA 16-09-2017
  */
 public class Numero {
     int num;
